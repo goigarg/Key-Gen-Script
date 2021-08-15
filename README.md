@@ -1,4 +1,4 @@
-# Key-Gen-Script
+# Key Generation Script
 
 ## Features 
 - Add License from Admin Panel
