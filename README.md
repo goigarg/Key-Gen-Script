@@ -6,4 +6,4 @@
 - Limit User Generations 
 
 
-Made Using Laravel
+Made Using Laravel 6
