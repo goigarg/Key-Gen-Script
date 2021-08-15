@@ -9,6 +9,9 @@
 - Install Laravel 6
 - Replace the files with your Laravel files
 - Update Database in .env file 
+- Register a new User
+- The first user will be admin
+- Go to /admin to access admin panel
 
 
 Made Using Laravel 6
